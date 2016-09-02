@@ -6,3 +6,7 @@ cheese
 garlic
 pepperoni
 basil
+
+Directions
+Preheat oven to 425 F
+
